@@ -1,15 +1,14 @@
+#sp{
+ width:150px;
+}
 #spisok1{
-list-style-type:decimal;
+ list-style-position:inside;
 }
 #spisok2{
-list-style-type:lower-roman;
+ list-style-position:outside;
 }
-#spisok3{
-list-style-type:upper-roman;
-}
-#spisok4{
-list-style-type:lower-alpha;
-}
+
+
 
 
 
